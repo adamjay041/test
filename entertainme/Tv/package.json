@@ -1,0 +1,30 @@
+{
+  "name": "entertainme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ioredis": "^4.16.1",
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.9.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamjay041/entertainme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamjay041/entertainme/issues"
+  },
+  "homepage": "https://github.com/adamjay041/entertainme#readme"
+}
